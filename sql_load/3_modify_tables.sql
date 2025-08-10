@@ -38,5 +38,5 @@ FROM 'C:\Users\TiTO.tech\Desktop\hosam\New folder (2)\csv_files\job_postings_fac
 WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
 
 COPY skills_job_dim
-FROM 'csv_files/skills_job_dim.csv'
+FROM 'C:\Users\TiTO.tech\Desktop\hosam\New folder (2)\csv_files\skills_job_dim.csv'
 WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
