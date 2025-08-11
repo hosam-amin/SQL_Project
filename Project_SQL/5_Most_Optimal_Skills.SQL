@@ -1,3 +1,10 @@
+/*
+ Question: what are the most optimal skills to learn (aka its in high-paying skill)?
+ -Identify skills in high demand and associated with high average salaries for Data Analyst roles
+ -Concentrates on remote positions with specified salaries
+ -why? targets skills that offer job security (high demand)and financial benefits (high salaries),
+    offering strategic insights for career development in Data Analysis
+*/
 WITH skills_demand AS (
 SELECT
     skills_dim.skill_id,
