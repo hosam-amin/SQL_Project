@@ -1,5 +1,13 @@
 # Introduction
-📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
+
+This project was a hands-on journey to **master SQL** while exploring the **data analyst job market**.  
+
+Through this project, I learned to:  
+- Build **complex SQL queries** to extract meaningful insights.  
+- Transform **raw data into actionable insights**.  
+- Identify **high-demand, high-paying skills** in the data analytics field.  
+
+Beyond analysis, this project strengthened my ability to turn data into **clear, strategic guidance** for career decisions in data analytics.
 
 🔍 SQL queries? Check them out here: [Project_SQL folder](/Project_SQL/)
 # Background
